@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b6bc8292-3f94-45dd-7e4e-7a350669742e
 ---
@@ -120,7 +122,7 @@ Enhanced Gauge Groups in Type I'
   
 W Bosons and Root Systems  
   
-O8∧ Plane  
+O8{{< sup "∧" >}} Plane  
   
 Montonen Olive Duality and SL(2,Z), Brane Picture in Type IIB  
   
