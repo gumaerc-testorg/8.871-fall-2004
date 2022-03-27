@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 5f7471f0-878a-c9d5-f99a-9e041278065c
 resourcetype: Document
 title: lec1.pdf
 uid: 1f83e1bf-0893-f13c-52a8-f9abc371c7de
