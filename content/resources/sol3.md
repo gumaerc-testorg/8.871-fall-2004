@@ -5,6 +5,7 @@ file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol3.pdf
 uid: 1c59d857-bc9e-823d-ef30-ef85a3d98e6e
 ---
 This resource contains the solution based on problem set #3.
-

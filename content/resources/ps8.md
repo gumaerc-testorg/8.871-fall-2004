@@ -6,6 +6,7 @@ file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps8.pdf
 uid: de9e12f4-f576-5f3b-899e-7df3453a6c4e
 ---
 This resource contains the problem based on magnetic Monopoles in Type I', the splitting of an O3 plane.
-

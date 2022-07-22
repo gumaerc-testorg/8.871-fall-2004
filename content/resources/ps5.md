@@ -6,6 +6,7 @@ file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps5.pdf
 uid: 763cdd8c-4723-b3c3-c510-278fd52f0fb4
 ---
 This resource contains the problem based on the Weyl group for classical groups.
-

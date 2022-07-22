@@ -5,6 +5,7 @@ file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps9.pdf
 uid: bce95b39-b326-1b4c-22e3-ed87c760d77f
 ---
 This resource contains the problem based on anomalies in 6 dimensions.
-

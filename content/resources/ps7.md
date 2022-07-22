@@ -6,6 +6,7 @@ file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps7.pdf
 uid: 8b109cfd-9d39-589e-0008-6bdcac616d93
 ---
 This resource contains the problem based on enhanced gauge groups in Type I', W bosons and root systems.
-

@@ -8,6 +8,7 @@ file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 8282afe5-5459-761f-4254-bf7b934ca32f
 ---
 This resource contains the problem based on fundamental string ending on a D5
 brane.
-

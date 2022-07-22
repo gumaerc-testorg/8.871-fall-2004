@@ -6,6 +6,7 @@ file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec3.pdf
 uid: 5bcdff3a-3071-c28b-efd4-3ad3ef4fc350
 ---
 This resource contains information on dimensional analysis on tensions of various branes.
-

@@ -6,6 +6,7 @@ file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps2.pdf
 uid: 078af98f-26d1-ab0b-e0f3-82451d1ac730
 ---
 This resource contains the problem based on massless field content of type IIB, relations between the string coupling and string length of type IIB.
-
