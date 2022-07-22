@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information on class notes and associated readings.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 96e66129-3853-35d0-be3a-cc5590d75ef7
 ---
@@ -189,7 +193,7 @@ Enhanced Gauge Groups in Type I'
   
 W Bosons and Root Systems  
   
-O8∧ Plane  
+O8{{< sup "∧" >}} Plane  
   
 Montonen Olive Duality and SL(2,Z), Brane Picture in Type IIB  
   
@@ -202,13 +206,13 @@ Orientifolds in Compact Backgrounds
 {{< tdopen >}}
 
 
-*   Read Lecture Note 1 ([PDF]({{< baseurl >}}/resources/lec1-1)) (Courtesy of Megha Padi. Used with permission.)  
+*   Read Lecture Note 1 ({{% resource_link a37fe3c3-f49d-86cc-dfe4-d417e21c934a "PDF" %}}) (Courtesy of Megha Padi. Used with permission.)  
       
-    Read Lecture Note 2 ([PDF]({{< baseurl >}}/resources/lec2-1)) (Courtesy of Megha Padi. Used with permission.)  
+    Read Lecture Note 2 ({{% resource_link 4944d4a3-13d2-399b-adde-634815961996 "PDF" %}}) (Courtesy of Megha Padi. Used with permission.)  
       
     In Lec #13, we will discuss the following topics:  
       
-    \- Introduce the O8∧ plane which plays the role of the orientifold plane for E\_n theories.  
+    \- Introduce the O8{{< sup "∧" >}} plane which plays the role of the orientifold plane for E\_n theories.  
       
     \- Discuss Montonen Olive Duality and its SL(2,Z) generalization and how it is implied by Type IIB SL(2,Z) duality using the brane picture.  
       
@@ -291,7 +295,7 @@ D Branes near Orientifold Planes
 D4 Branes and 5d BPS States
 {{< tdclose >}}
 {{< tdopen >}}
-Read Lecture Note 3 ([PDF]({{< baseurl >}}/resources/lec3-1)) (Courtesy of Megha Padi. Used with permission.)  
+Read Lecture Note 3 ({{% resource_link 5bcdff3a-3071-c28b-efd4-3ad3ef4fc350 "PDF" %}}) (Courtesy of Megha Padi. Used with permission.)  
   
 In Lec #19, we continue to look at the relation between the Higgs branch and the moduli space of instantons and extend the discussion to the classical groups: A\_n, B\_n, C\_n, D\_n. We will also learn about some aspects of the moduli space of E\_n instantons. If time allows we will discuss the relation between the string coupling equation of motion and the beta function of supersymmetric gauge theories.
 {{< tdclose >}}
@@ -305,7 +309,7 @@ In Lec #19, we continue to look at the relation between the Higgs branch and the
 Brane Intervals - Hanany Witten Brane Configurations
 {{< tdclose >}}
 {{< tdopen >}}
-[A source for the dual coxeter number of various groups can be found for example in Instantons and Magnetic Monopoles on _R_3 × _S_1 with Arbitrary Simple Gauge Groups](http://de.arxiv.org/abs/hep-th/9802012) (Lee).
+[A source for the dual coxeter number of various groups can be found for example in Instantons and Magnetic Monopoles on _R_{{< sub "3" >}} × _S_{{< sub "1" >}} with Arbitrary Simple Gauge Groups](http://de.arxiv.org/abs/hep-th/9802012) (Lee).
 {{< tdclose >}}
 
 {{< trclose >}}
