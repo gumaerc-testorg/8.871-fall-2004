@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/1f8f83c7b3c1b9f4b2100921207aa344_lec2.pdf
+file_size: 77836
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

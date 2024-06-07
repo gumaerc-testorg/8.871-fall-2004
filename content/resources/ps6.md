@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the problem based on Adjoint Higgsing, Supergravity
   multiplets.
 file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/b4f5fa0f8f90ebec9804d1acedd0df00_ps6.pdf
+file_size: 52987
 file_type: application/pdf
 learning_resource_types:
 - Assignments

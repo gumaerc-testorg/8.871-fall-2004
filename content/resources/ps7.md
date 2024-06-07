@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the problem based on enhanced gauge groups in
   Type I', W bosons and root systems.
 file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/8b109cfd9d39589e00086bdcac616d93_ps7.pdf
+file_size: 52722
 file_type: application/pdf
 learning_resource_types:
 - Assignments
