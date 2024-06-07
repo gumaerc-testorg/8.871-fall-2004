@@ -5,6 +5,7 @@ description: 'This resource contains the problem based on fundamental string end
 
   brane.'
 file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/8282afe55459761f4254bf7b934ca32f_ps3.pdf
+file_size: 47882
 file_type: application/pdf
 learning_resource_types:
 - Assignments

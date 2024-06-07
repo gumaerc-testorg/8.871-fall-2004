@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains the solution based on problem set #2.'
 file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/e5a7a65af18ac24f1c3a476a7381c37c_sol2.pdf
+file_size: 159662
 file_type: application/pdf
 learning_resource_types:
 - Assignments
