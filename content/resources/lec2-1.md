@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on electrically and magnetically charged
   branes, central charges and branes.
-file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/4944d4a313d2399badde634815961996_lec2.pdf
+file: /ol-ocw-studio-app/courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/4944d4a313d2399badde634815961996_lec2.pdf
 file_size: 77836
 file_type: application/pdf
 learning_resource_types:
