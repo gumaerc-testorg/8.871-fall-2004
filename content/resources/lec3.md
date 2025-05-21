@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/12becf82d6b8506502001a816934d402_lec3.pdf
+file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/12becf82d6b8506502001a816934d402_lec3.pdf
 file_size: 55244
 file_type: application/pdf
 learning_resource_types: []
