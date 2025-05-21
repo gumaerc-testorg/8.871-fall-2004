@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the problem based on anomalies in 6 dimensions.
-file: /ol-ocw-studio-app/courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/bce95b39b3261b4c22e3ed87c760d77f_ps9.pdf
+file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/bce95b39b3261b4c22e3ed87c760d77f_ps9.pdf
 file_size: 50630
 file_type: application/pdf
 learning_resource_types:
