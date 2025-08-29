@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on course outline, charged strings
   and branes, gauge invariant action.
-file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/a37fe3c3f49d86ccdfe4d417e21c934a_lec1.pdf
+file: /ol-ocw-studio-app/courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/a37fe3c3f49d86ccdfe4d417e21c934a_lec1.pdf
 file_size: 108776
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the problem based on p-forms and their representations,
   branes ending on branes, electric and magnetic objects on the brane.
-file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/b8aebd2c09f1a99d7dc2f41bfae6bce4_ps4.pdf
+file: /ol-ocw-studio-app/courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/b8aebd2c09f1a99d7dc2f41bfae6bce4_ps4.pdf
 file_size: 59769
 file_type: application/pdf
 learning_resource_types:
