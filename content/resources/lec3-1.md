@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on dimensional analysis on tensions
   of various branes.
-file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/5bcdff3a3071c28befd43ad3ef4fc350_lec3.pdf
+file: /ol-ocw-studio-app/courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/5bcdff3a3071c28befd43ad3ef4fc350_lec3.pdf
 file_size: 55244
 file_type: application/pdf
 learning_resource_types:
