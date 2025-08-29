@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains the solution based on problem set #6.'
-file: /courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/487499123b60f81803744e1ea5dcb6f6_sol6.pdf
+file: /ol-ocw-studio-app/courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/487499123b60f81803744e1ea5dcb6f6_sol6.pdf
 file_size: 121838
 file_type: application/pdf
 learning_resource_types:
