@@ -40,9 +40,9 @@ Branes Ending on Branes
 {{< tdopen >}}
 For today's lecture, we have the following references:  
   
-\- [Open _p_\-Branes](http://de.arxiv.org/abs/hep-th/9512059) (Strominger)  
+\- {{% resource_link "49120f25-1e46-46be-abe7-833fd200bb6f" "Open _p_\-Branes" %}} (Strominger)  
   
-\- [String Theory Dynamics in Various Dimensions (Witten)](http://de.arxiv.org/abs/hep-th/9503124)
+\- {{% resource_link "f1c83f52-793d-428f-938e-92deb4d3f557" "String Theory Dynamics in Various Dimensions (Witten)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,13 +68,13 @@ In this paper there is an explicit computation of the extension for a two dimens
   
 The discussion we had today is a (straightforward) generalization of this paper. One replaces particles by branes and generalizes the number of space-time dimensions. The central extension for a _p_\-brane becomes a _p_\-form in the supersymmetry algebra instead of a 0-form for a particle.  
   
-A treatment of the central charge for 11d supergravity can be found in M-Theory from its Super algebra (Townsend). ([PDF](http://arxiv.org/pdf/hep-th/9712004v4))  
+A treatment of the central charge for 11d supergravity can be found in M-Theory from its Super algebra (Townsend). ({{% resource_link "d9588ded-f1af-4c4a-8124-b4edbe3314c5" "PDF" %}})  
   
 A derivation of the BPS bound which is the generalization of the Witten Olive computation can be found.  
   
-[A good source for SL(2,Z) duality of Type IIB is An SL(2,Z) Multiplet of Type IIB Superstrings (J. Schwarz)](http://de.arxiv.org/abs/hep-th/9508143).  
+{{% resource_link "05c87f75-1bd1-4ec3-98e7-bb1976c780e5" "A good source for SL(2,Z) duality of Type IIB is An SL(2,Z) Multiplet of Type IIB Superstrings (J. Schwarz)" %}}.  
   
-And, [Some Relationships Between Dualities in String Theory](http://dx.doi.org/10.1016/0920-5632(96)00004-7) (Aspinwall).
+And, {{% resource_link "dbdfce85-aaad-45e5-8a7c-a9dcfa647fbd" "Some Relationships Between Dualities in String Theory" %}} (Aspinwall).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,10 +94,10 @@ For collected works on supergravity in various dimensions see:
   
 Salam, A., and E. Sezgin, eds. _Supergravity In Diverse Dimensions._ North-Holland: World Scientific, 1989.  
   
-For a discussion on scalar manifolds in various dimensions see for example [Hull and Townsend](http://arxiv.org/abs/hep-th/9410167).  
+For a discussion on scalar manifolds in various dimensions see for example {{% resource_link "03be0683-09d7-4b8a-b3d8-0b49a77e2c06" "Hull and Townsend" %}}.  
 Tables 1 and 2 summarize the results.  
   
-[For a recent revival of the topic of cosmic strings in string theory see Copeland, Myers, and Polchinski](http://de.arxiv.org/abs/hep-th/0312067).
+{{% resource_link "83cd735c-e8bf-4f5a-ae19-75291ca68a53" "For a recent revival of the topic of cosmic strings in string theory see Copeland, Myers, and Polchinski" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +119,7 @@ A nice treatment of anomalies in various dimensions can be found in the review p
   
 In this paper there is a topological interpretation of the anomalies in terms of some index theorems. The 2 dimensional extension of the manifold for which the anomaly in calculated is described in section 3 where this 2 dimensional extension turns out to be a 2-sphere. A summary of the ideas can be found in section 4. This reference answers in great detail all questions which were asked today in class about the derivation of the anomaly in even dimensions.  
   
-[A good source for the properties of supergravity theories in various dimensions can be found in Introduction to Supergravities in Diverse Dimensions](http://de.arxiv.org/abs/hep-th/9802138) (Tanii).
+{{% resource_link "edf0dc73-6e66-4e95-9060-52baf59939b7" "A good source for the properties of supergravity theories in various dimensions can be found in Introduction to Supergravities in Diverse Dimensions" %}} (Tanii).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +139,7 @@ Central Charge Formulas for W Bosons
 Root Systems of Lie Algebras
 {{< tdclose >}}
 {{< tdopen >}}
-[A good review of string dualities can be found in the paper of lectures on Superstring and M Theory Dualities (Schwarz)](http://de.arxiv.org/abs/hep-th/9607201).  
+{{% resource_link "951581f8-458f-4b03-b187-662de9c058fe" "A good review of string dualities can be found in the paper of lectures on Superstring and M Theory Dualities (Schwarz)" %}}.  
   
 The next lecture, will be focused on the brane realization of the classical groups A, B, C, D for theories with 16 supercharges. We will learn for the first time in the course the deep connection between geometry and algebra as realized by the branes. We will cover orientifolds on their various types and learn about central charge formulas for W bosons and their relation to the root systems of the lie algebras.
 {{< tdclose >}}
@@ -237,7 +237,7 @@ UV Completion of 5d SYM with 16 Supercharges - D4 Brane Story
 Splitting of O3 Planes
 {{< tdclose >}}
 {{< tdopen >}}
-A good exposition of the duality between Type I' superstring and the Heterotic string in 9 dimensions can be found in the paper [String Creation and Heterotic-Type I' Duality](http://arxiv.org/abs/hep-th/9510169) (Bergman, Gaberdiel and Lifschytz).
+A good exposition of the duality between Type I' superstring and the Heterotic string in 9 dimensions can be found in the paper {{% resource_link "e916a86b-b17e-45cf-80cd-b08e45dfa55f" "String Creation and Heterotic-Type I' Duality" %}} (Bergman, Gaberdiel and Lifschytz).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +253,7 @@ Anomalies in 6d
 Theories with 8 Supercharges - Various Supermultiplets
 {{< tdclose >}}
 {{< tdopen >}}
-A useful summary of supersymmetry multiplets and their properties can be found in [Vadim Kaplunovsky's notes.](https://web2.ph.utexas.edu/~vadim/home.html) 
+A useful summary of supersymmetry multiplets and their properties can be found in {{% resource_link "c11733df-67e8-4c75-9521-b8dda0b4b58a" "Vadim Kaplunovsky's notes." %}} 
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +309,7 @@ In Lec #19, we continue to look at the relation between the Higgs branch and the
 Brane Intervals - Hanany Witten Brane Configurations
 {{< tdclose >}}
 {{< tdopen >}}
-[A source for the dual coxeter number of various groups can be found for example in Instantons and Magnetic Monopoles on _R_{{< sub "3" >}} × _S_{{< sub "1" >}} with Arbitrary Simple Gauge Groups](http://de.arxiv.org/abs/hep-th/9802012) (Lee).
+{{% resource_link "4d365932-97f4-4186-826f-c558b951ab3c" "A source for the dual coxeter number of various groups can be found for example in Instantons and Magnetic Monopoles on _R_{{< sub \"3\" >}} × _S_{{< sub \"1\" >}} with Arbitrary Simple Gauge Groups" %}} (Lee).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -347,11 +347,11 @@ Brane Creation - The Hanany Witten Effect
 Continuation Past Infinite Coupling
 {{< tdclose >}}
 {{< tdopen >}}
-[For an M theory realization of Mirror Symmetry in 3 dimensions see Porrati and Zaffaroni](http://de.arxiv.org/abs/hep-th/9611201).  
+{{% resource_link "958bcca8-86d8-44c2-b38d-3474fb8f7de9" "For an M theory realization of Mirror Symmetry in 3 dimensions see Porrati and Zaffaroni" %}}.  
   
-[For a Type IIB realization of Mirror Symmetry in 3 dimensions, Brane Creation, and Continuation Past Infinite Coupling see Hanany and Witten](http://de.arxiv.org/abs/hep-th/9611230).  
+{{% resource_link "73635d05-077e-44e2-9371-8f6168a26ab1" "For a Type IIB realization of Mirror Symmetry in 3 dimensions, Brane Creation, and Continuation Past Infinite Coupling see Hanany and Witten" %}}.  
   
-[For (p,q) Webs and their application to five dimensional fixed points see Aharony, Hanany, and Kol](http://de.arxiv.org/abs/hep-th/9710116).
+{{% resource_link "ab2a1215-54f9-48e1-ac6b-7ba4e8039e33" "For (p,q) Webs and their application to five dimensional fixed points see Aharony, Hanany, and Kol" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
